@@ -1,9 +1,9 @@
 ### Hi there 👋
 - 🤓 I’m a computer science engineer
-- 👀 I'm currenlty looking for a job
-- 🔧 I'm a .NET fullstack developer
+- 👀 Currenlty looking for a job
+- 🔧 .NET fullstack developer
 - 😁 Learning Machine Learning
-- 🤖 I'm passionate about Generative AI (LLM, Stable Diffusion etc.)
+- 🤖 Passionate about Generative AI (LLM, Stable Diffusion etc.)
 
 Currently looking for a job in Full Stack .NET, Machine Learning or Generative AI.\
 In my free time I'm developing VisuAlise further and I'm following new AI trends.
